@@ -23,5 +23,4 @@ def test():
     # print driver.current_url
     time.sleep(30*6)
     driver.quit()
-
 test()
