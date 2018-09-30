@@ -1,0 +1,37 @@
+1538213887529	geckodriver	INFO	geckodriver 0.19.1
+1538213887538	geckodriver	INFO	Listening on 127.0.0.1:43944
+1538213890603	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cZcAX4fL5FfY"
+1538213891776	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 46684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538213900430	Marionette	INFO	Listening on port 43952
+1538213900549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538213901202	Marionette	DEBUG	Register listener.js for window 4294967297
+1538213901241	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538213901849	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538213901850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1538213902086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1538213902563	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1538213902960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1538213902977	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145"
+1538213903001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145"
+1538213903067	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145"
+1538213903068	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145"
+1538213904008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145&rsv_jmp=fail"
+1538213904090	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=python&rsv_pq=ed74f7cc0006c8b3&rsv_t=2cd3QzVT9kucjGfGJEJOHoVfpeKpekmhiJ2vcvVSmFoTQ%2FhHqGW749EXSaA&rqlang=cn&rsv_enter=0&rsv_sug3=6&rsv_sug1=1&rsv_sug7=100&inputT=145&rsv_sug4=145&rsv_jmp=fail"
+[Child 40528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 46740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
